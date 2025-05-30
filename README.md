@@ -36,7 +36,7 @@ This application helps users internalize musical intervals by associating them w
 
 This app is inspired by brilliant musicians and builders who share the same passion for music education.
 
-1. Works of bilibili user **燃油宝燃油宝** ([uid: 12131619]((https://space.bilibili.com/12131619))):
+1. Works of bilibili user **[燃油宝燃油宝](https://space.bilibili.com/12131619)**:
     1. ["Identifying Intervals I"](https://www.bilibili.com/video/BV1914y157tQ/): 42-min video with sheet music and reference song excerpts.
     2. ["Identifying Intervals II"](https://www.bilibili.com/video/BV1wY411d7bJ/): 245-min video with sheet music, reference song excerpts, and keyboard visualization.
 
