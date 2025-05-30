@@ -22,8 +22,6 @@ This application helps users internalize musical intervals by associating them w
 - Practice mode for user-created pieces
 - Support for modern/popular songs (subject to copyright considerations)
 
-
-
 ## Technical Stack
 
 - Web-based application
@@ -36,15 +34,18 @@ This application helps users internalize musical intervals by associating them w
 
 ## Inspirations & Acknowledgments
 
-This app is inspired by brilliant musicians and developers who share the same passion for music education.
+This app is inspired by brilliant musicians and builders who share the same passion for music education.
 
-1. Works of bilibili user "燃油宝燃油宝" ([uid: 12131619]((https://space.bilibili.com/12131619))):
-    1. ["Identifying Simple Intervals I"](https://www.bilibili.com/video/BV1914y157tQ/): 42-min video with sheet music and reference song excerpts.
-    2. ["Identifying Simple Intervals II"](https://www.bilibili.com/video/BV1wY411d7bJ/): 245-min video with sheet music, reference song excerpts, and keyboard visualization.
+1. Works of bilibili user **燃油宝燃油宝** ([uid: 12131619]((https://space.bilibili.com/12131619))):
+    1. ["Identifying Intervals I"](https://www.bilibili.com/video/BV1914y157tQ/): 42-min video with sheet music and reference song excerpts.
+    2. ["Identifying Intervals II"](https://www.bilibili.com/video/BV1wY411d7bJ/): 245-min video with sheet music, reference song excerpts, and keyboard visualization.
 
-2. iOS apps developed by [Ensemble Education](https://ensemble-education.com/):
+2. iOS apps developed by **[Ensemble Education](https://ensemble-education.com/)**:
    1. [Chet](https://apps.apple.com/us/app/chet-ear-training/id1405525467): Ear Training, Music Theory, Piano & Guitar.
    2. [Ella](https://apps.apple.com/us/app/ella-sight-singing-reading/id1301456113): Sight Singing & Reading, Voice Pitch Analyzer & Trainer.
+
+3. iOS and Android apps developed by **[Max Konyi](https://www.maxkonyi.com/)**:
+   1. [Sonofield](https://et.sonofield.com/): Sonofield Ear Trainer (SET), designed to help you intuitively play the melodies you hear and imagine.
 
 ## Contributing
 
