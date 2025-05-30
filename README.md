@@ -1,6 +1,8 @@
 # Interval Ear Training Songs
 
-A web-based ear training application designed to help musicians develop their interval recognition skills using familiar song references. The application is optimized for mobile devices, making it convenient for practice on the go.
+- This web app quotes **familiar song references** to help musicians develop interval recognition skills.
+- Optimized for **mobile devices**, convenient for practice on the go.
+- **No need to watch** - listen and relax before sleep, on a ride, in the air, with a built-in timer.
 
 ## Overview
 
@@ -13,12 +15,14 @@ This application helps users internalize musical intervals by associating them w
 - **Public Domain Songs**: Uses only copyright-free songs to avoid legal issues
 - **Example**: "Happy Birthday to You" in C major demonstrates the major 2nd interval
 
-## Future Enhancements (Planned)
+## Future Enhancements (to-do's)
 
 - User accounts for personalized training
 - Custom song creation and storage
 - Practice mode for user-created pieces
 - Support for modern/popular songs (subject to copyright considerations)
+
+
 
 ## Technical Stack
 
@@ -29,6 +33,18 @@ This application helps users internalize musical intervals by associating them w
 ## Getting Started
 
 [Installation and setup instructions to be added]
+
+## Inspirations & Acknowledgments
+
+This app is inspired by brilliant musicians and developers who share the same passion for music education.
+
+1. Works of bilibili user "燃油宝燃油宝" ([uid: 12131619]((https://space.bilibili.com/12131619))):
+    1. ["Identifying Simple Intervals I"](https://www.bilibili.com/video/BV1914y157tQ/): 42-min video with sheet music and reference song excerpts.
+    2. ["Identifying Simple Intervals II"](https://www.bilibili.com/video/BV1wY411d7bJ/): 245-min video with sheet music, reference song excerpts, and keyboard visualization.
+
+2. iOS apps developed by [Ensemble Education](https://ensemble-education.com/):
+   1. [Chet](https://apps.apple.com/us/app/chet-ear-training/id1405525467): Ear Training, Music Theory, Piano & Guitar.
+   2. [Ella](https://apps.apple.com/us/app/ella-sight-singing-reading/id1301456113): Sight Singing & Reading, Voice Pitch Analyzer & Trainer.
 
 ## Contributing
 
