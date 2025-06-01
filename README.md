@@ -17,6 +17,7 @@ This application helps users internalize musical intervals by associating them w
 
 ## Future Enhancements (to-do's)
 
+- Leaderboard & ranking system
 - User accounts for personalized training
 - Custom song creation and storage
 - Practice mode for user-created pieces
